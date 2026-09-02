@@ -1,6 +1,6 @@
 # SIGame Custom Edition
 
-This app was created with AI, and solves the problem with limits for creating packs in the original SIGame. 
+This app was created with AI, and solves the problem with limits for creating packs in the original SIGame app. 
 
 It is designed for the quick and simple creation of packs for "SIGame" (Jeopardy) and serves as a custom interpretation of the established internet version.
 
@@ -25,7 +25,7 @@ The following features are available in the game:
 
 # SIGame Custom Edition
 
-This app created with AI, and solve the problem with limits for creating packs in original SIGame.
+Данное приложение создано при помощи ИИ и решает проблему с наличием лимитов у ресурсов во время создания паков в оригинальном приложении SIGame.
 
 Приложение служит для быстрого и простого создания пака для "Своей Игры" (SIGame) и является своей интерпретацией устоявшейся интернет-версии. 
 
